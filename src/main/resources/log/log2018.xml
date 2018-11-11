@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<year id="y2018">
+<stage id="s01">
+	<week id="w01" a1="节气：立冬">
+		<day id="d20181112" class="monday">
+		</day>		
+		<day id="d20181113" class="tuesday">
+		</day>
+		<day id="d20181114" class="wednesday">
+		</day>
+		<day id="d20181115" class="thursday">
+		</day>
+		<day id="d20181116" class="friday">
+		</day>
+		<day id="d20181117" class="saturday">
+		</day>
+		<day id="d20181118" class="sunday">
+		</day>
+	</week>
+</stage>
+</year>
