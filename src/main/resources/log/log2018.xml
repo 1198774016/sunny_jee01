@@ -16,6 +16,9 @@
 			关键字：第二职业、稿稿
 		</day>
 		<day id="d20181114" class="wednesday">
+		工作：
+			（1）proxy资源申请延迟队列死锁问题修复。
+			（2）延迟队列死锁问题，补丁测试。
 		</day>
 		<day id="d20181115" class="thursday">
 		</day>
