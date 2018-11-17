@@ -37,6 +37,13 @@
 			建造者模式学习，建造者模式与工厂模式的区别，由多个简单对象创建复杂对象。
 		</day>
 		<day id="d20181117" class="saturday">
+		学习：
+			建造者模式：复杂对象有多个简单对象组装，组装逻辑变化多，提取可变部分，便于扩展。
+			原型模式：浅拷贝（实现Cloneable）、深拷贝（序列化、反序列化）、
+				ByteArrrayOutPutStream、ObjectOutPutStream、ByteArrrayInPutStream、ObjectInPutStream
+		读书：
+			《如何阅读一本书》：阅读的四个层次(基础阅读、检视阅读、分析阅读、主题阅读)、阅读的活力与艺术、
+				阅读学习的四个阶段（略读、粗浅阅读..）
 		</day>
 		<day id="d20181118" class="sunday">
 		</day>
