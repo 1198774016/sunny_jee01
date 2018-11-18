@@ -3,6 +3,11 @@ package com.sunny.designPattern.build.prototype;
 import java.io.Serializable;
 
 public class Teacher implements Serializable {
+    /**
+     * 
+     */
+    private static final long serialVersionUID = 1L;
+
     private String name;
 
     public String getName() {
