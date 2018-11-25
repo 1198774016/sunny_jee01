@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <year id="y2018">
+<template>
+	<week id="" a1="节气：">
+		<day id="" class="monday">
+		</day>
+		<day id="" class="tuesday">
+		</day>
+		<day id="" class="wednesday">
+		</day>
+		<day id="" class="thursday">
+		</day>
+		<day id="" class="friday">
+		</day>
+		<day id="" class="saturday">
+		</day>
+		<day id="" class="sunday">
+		</day>
+	</week>
+</template>
 <stage id="s01">
 	<week id="w01" a1="节气：立冬">
 		<day id="d20181112" class="monday">
@@ -94,6 +112,23 @@
 		没有工作学习，看了会书，看了几集电视。今天放纵了点，明天要回到正轨。
 		</day>
 		<day id="d20181125" class="sunday">
+		今天上午去了光谷书店。下午看书、看电影。
+		</day>
+	</week>
+	<week id="w03" a1="节气：小雪">
+		<day id="d20181126" class="monday">
+		</day>
+		<day id="d20181127" class="tuesday">
+		</day>
+		<day id="d20181128" class="wednesday">
+		</day>
+		<day id="d20181129" class="thursday">
+		</day>
+		<day id="d20181130" class="friday">
+		</day>
+		<day id="d20181201" class="saturday">
+		</day>
+		<day id="d20181202" class="sunday">
 		</day>
 	</week>
 </stage>
