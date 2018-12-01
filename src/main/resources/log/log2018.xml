@@ -148,8 +148,29 @@
 			（1）用户问题分析。
 		</day>
 		<day id="d20181201" class="saturday">
+		学习：
+			（1）看书——《如何阅读一本书》，学习基础阅读的四个阶段，准备阶段——学前教育，识字阶段，字汇积累阶段，阅读读物、精炼技巧。
+			（2）spring cloud，服务发现：eureka、consul。
 		</day>
 		<day id="d20181202" class="sunday">
+		</day>
+	</week>
+</stage>
+<stage id="s02">
+	<week id="w04" a1="节气：小雪-大雪">
+		<day id="d20181203" class="monday">
+		</day>
+		<day id="d20181204" class="tuesday">
+		</day>
+		<day id="d20181205" class="wednesday">
+		</day>
+		<day id="d20181206" class="thursday">
+		</day>
+		<day id="d20181207" class="friday" a1="节气：大雪">
+		</day>
+		<day id="d20181208" class="saturday">
+		</day>
+		<day id="d20181209" class="sunday">
 		</day>
 	</week>
 </stage>
