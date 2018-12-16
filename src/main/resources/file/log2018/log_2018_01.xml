@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<year>
+<stage id="s01">
+<week id="" a1="节气：大雪-冬至">
+	<day id="d20181216" class="sunday">
+	周计划：
+	1.工作：
+		（1）解决rpm新增代码引入的问题。
+		（2）资源抢占式，环境部署，补丁测试。
+	2.学习：
+		（1）《现代汉语》上册阅读。
+		（2）spring-boot英文指导文档阅读。
+		（3）简书文章阅读。
+	3.生活：
+		（1）推动出差、报销流程。
+	</day>
+	<day id="d20181217" class="monday">
+	</day>
+	<day id="d20181218" class="tuesday">
+	</day>
+	<day id="d20181219" class="wednesday">
+	</day>
+	<day id="d20181220" class="thursday">
+	</day>
+	<day id="d20181221" class="friday">
+	</day>
+	<day id="d20181222" class="saturday"	a1="节气：冬至">
+	</day>
+</week>
+</stage>
+</year>
