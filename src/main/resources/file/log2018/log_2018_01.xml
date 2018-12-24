@@ -22,7 +22,7 @@
 		2.spring framework 文档学习。
 		3.现代汉语，语音学习：元音、辅音、音节、音素、声母、韵母、音调。
 	</day>
-	<day id="d20181220" class="thursday">
+	<day id="d20181220" class="thursday"	warn="*">
 	当日记录：
 		1.资源抢占式，代码改进。
 		2.spring framework 文档阅读。
