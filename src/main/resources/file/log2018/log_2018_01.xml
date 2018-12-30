@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <year>
-<stage id="s01">
+<stage id="s01" stageWarn="**">
 <week id="" a1="节气：大雪-冬至">
 	<day id="d20181216" class="sunday">
 	当日记录：
@@ -48,5 +48,48 @@
 			每日记录，写的不够详细，可以描述一下工作学习的内容或进度。
 	</day>
 </week>
+<week id="" a1="节气：冬至">
+		<day id="d20181223" class="sunday">
+		当日记录：
+			1.在家看电视剧——《原来你还在这里》。
+		</day>
+		<day id="d20181224" class="monday">
+		当日记录：
+			1.用户问题分析：pom下载任务结束，proxy任务卡住。
+			2.现代汉语学习。
+		</day>
+		<day id="d20181225" class="tuesday">
+		当日记录：
+			1.spring-framework文档阅读。
+			2.tomcat源码学习。
+		</day>
+		<day id="d20181226" class="wednesday">
+		当日记录：
+			1.tomcat源码学习。
+			2.现代汉语学习：句法
+		</day>
+		<day id="d20181227" class="thursday">
+		当日记录：
+			1.tomcat源码学习。
+			2.用户问题分析：资源申请慢。
+		</day>
+		<day id="d20181228" class="friday" warn="*">
+		告警：早晨7点差一会。
+		当日记录：
+			1.dispatcher源码阅读。
+			2.现代汉语学习：修辞。
+		</day>
+		<day id="d20181229" class="saturday">
+		周总结：
+			工作总结：
+			1.资源抢占式，未开始测试。
+			2.rsm-proxy通信异常处理，已经开始测试，打补丁后构建正常，场景未复现。
+			3.资源申请慢，之前已出过相关补丁，用户环境未升级。
+			学习总结：
+			1.spring framework文档阅读：学习了spring核心模块beans、core、context、aop、扩展接口的使用。
+			2.tomcat源码学习：filterChain、servlet创建；请求从接收到servlet处理的一系列过程。
+			3.现代汉语学习：词法、词类、句法、句子成分、短语、修辞等。
+		</day>
+	</week>
 </stage>
 </year>
