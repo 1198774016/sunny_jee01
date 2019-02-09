@@ -1,51 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <year id="y2019">
-<stage id="s01">
-	<week id="" a1="节气：小寒">
-		<day id="d20190106" class="sunday">
-		当日记录：
-			1.买手机——oppo（A7），1499。
-			2.晚上步行约30分钟。
-		</day>
-		<day id="d20190107" class="monday">
-		当日记录：
-			1.迭代转测。
-			2.晚上步行约50分钟。
-		</day>
-		<day id="d20190108" class="tuesday">
-		当日记录：
-			1.用户问题分析——10迭代测试，任务阻塞。
-			2.晚上步行约60分钟。
-		</day>
-		<day id="d20190109" class="wednesday">
-		当日记录：
-			1.10迭代，测试问题分析。
-			2.《软件工程导论》学习：概述。
-			3.晚上步行60分钟。
-		</day>
-		<day id="d20190110" class="thursday">
-		当日记录：
-			1.《软件工程导论》学习。
-			2.资源抢占式测试环境部署。
-			3.晚上步行约60分钟。
-		</day>
-		<day id="d20190111" class="friday">
-		当日记录：
-			1.用户问题分析：10迭代问题。
-			2.晚上步行60分钟。
-		</day>
-		<day id="d20190112" class="saturday">
-		当日记录：
-			1.加班。
-			2.晚上步行约60分钟。
-		</day>
-		<总结>
-			1.买手机。
-			2.12迭代转测。
-			3.用户问题分析——10迭代测试。
-			4.软件工程导论。
-			5.晚上散步。
-		</总结>
-	</week>
+<stage  id="s01">
+<week id="w01" jieqi="立春">
+	<day id="d20190210" class="sunday">
+	</day>
+	<day id="d20190211" class="monday">
+	</day>
+	<day id="d20190212" class="tuesday">
+	</day>
+	<day id="d20190213" class="wednesday">
+	</day>
+	<day id="d20190214" class="thursday">
+	</day>
+	<day id="d20190215" class="friday">
+	</day>
+	<day id="d20190216" class="saturday">
+	</day>
+</week>
+
+<week id="w02" jieqi="立春-雨水">
+	<day id="d20190217" class="sunday">
+	</day>
+	<day id="d20190218" class="monday">
+	</day>
+	<day id="d20190219" class="tuesday"	jieqi="雨水">
+	</day>
+	<day id="d20190220" class="wednesday">
+	</day>
+	<day id="d20190221" class="thursday">
+	</day>
+	<day id="d20190222" class="friday">
+	</day>
+	<day id="d20190223" class="saturday">
+	</day>
+</week>
+
+<week id="w03" jieqi="雨水">
+	<day id="d20190224" class="sunday">
+	</day>
+	<day id="d20190225" class="monday">
+	</day>
+	<day id="d20190226" class="tuesday">
+	</day>
+	<day id="d20190227" class="wednesday">
+	</day>
+	<day id="d20190228" class="thursday">
+	</day>
+	<day id="d20190301" class="friday">
+	</day>
+	<day id="d20190302" class="saturday">
+	</day>
+</week>
 </stage>
 </year>
